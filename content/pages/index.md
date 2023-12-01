@@ -25,7 +25,7 @@ sections:
       success.
     actions:
       - type: Button
-        label: Contact me  →
+        label: Contact me   →
         url: 'mailto:arthur.kuzmuk1@gmail.com'
         size: large
         variant: contained
