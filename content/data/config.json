@@ -30,7 +30,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "GitHub",
                 "underline": "hover",
                 "url": "/"
             },
