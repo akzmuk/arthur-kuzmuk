@@ -35,7 +35,7 @@ sections:
       url: /images/rsz_photo_2023-12-02_00-12-38.png
       altText: img
   - type: CardsSection
-    title: Cards Section Component
+    title: My Projects
     subtitle: Section subtitle here
     items:
       - type: Card
