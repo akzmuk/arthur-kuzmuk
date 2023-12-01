@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: 'https://docs.netlify.com/create/quickstart'
+        url: 'mailto:arthur.kuzmuk1@gmail.com'
         size: large
         variant: contained
         color: primary
