@@ -25,7 +25,7 @@ sections:
     image:
       type: Image
       url: /images/photo_2023-12-02_00-12-38.jpg
-      altText: Hero section image
+      altText: img
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
