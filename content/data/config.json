@@ -7,7 +7,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "/",
+                "url": "https://github.com/akzmuk",
                 "underline": "hover",
                 "color": "secondary"
             },
