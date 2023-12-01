@@ -67,5 +67,5 @@ sections:
         actions:
           - type: Button
             label: Repository
-            url: /
+            url: 'https://github.com/akzmuk/Mushrooms-analysis'
 ---
