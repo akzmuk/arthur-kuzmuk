@@ -14,7 +14,7 @@ sections:
         label: Contact me →
         url: 'mailto:arthur.kuzmuk1@gmail.com'
         size: large
-        variant: contained
+        variant: outlined
         color: primary
       - type: Button
         label: Read the Docs
