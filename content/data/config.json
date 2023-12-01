@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Projects",
                 "url": "https://docs.netlify.com/create/overview",
                 "underline": "hover"
             }
