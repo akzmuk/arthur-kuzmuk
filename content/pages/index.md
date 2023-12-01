@@ -57,7 +57,7 @@ sections:
         title: Mushrooms analysis
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/271919696-b88ae8e2-b627-4645-8937-8138466e86ae.jpg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
