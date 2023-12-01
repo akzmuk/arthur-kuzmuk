@@ -51,7 +51,7 @@ sections:
           success. 
         actions:
           - type: Button
-            label: REpository
+            label: Repository
             url: 'https://github.com/akzmuk/Employee-churn-prediction'
       - type: Card
         title: Mushrooms analysis
