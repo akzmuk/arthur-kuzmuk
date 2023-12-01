@@ -45,10 +45,13 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          This project aims to provide valuable insights and predictive models
+          for organizations looking to address employee turnover. Employee churn
+          can have a significant impact on productivity and overall company
+          success. By leveraging exploratory data analysis, data cleaning,
+          various data visualizations, and machine learning techniques, this
+          project helps organizations make data-driven decisions to reduce
+          employee turnover and improve retention strategies.
         actions:
           - type: Button
             label: Read the Docs
