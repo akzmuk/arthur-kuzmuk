@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Contact me",
                 "url": "mailto:arthur.kuzmuk1@gmail.com",
                 "underline": "hover"
             }
