@@ -6,23 +6,24 @@ sections:
     title: Arthur Kuzmuk
     subtitle: Data Analyst & Machine Learning Enthusiast
     text: >
-      I am a student in my fourth year at Taras Shevchenko National University
-      of Kyiv studying computer mathematics. I'm passionate about transforming
-      raw data into actionable insights that empower organizations to make
-      informed decisions. I thrive in data-driven environments where I can turn
-      complex datasets into clear, actionable recommendations.
+      Dedicated and results-oriented Data Analyst with experience in leveraging
+      data-driven insights to inform strategic decision-making.
+
+      Possessing a strong foundation in SQL, Python, Tableau, and Excel/Google
+      Sheets, I have honed my skills through hands-on
+
+      experience in various projects. My proficiency in machine learning with
+      TensorFlow, hypothesis testing, statistical analysis, and
+
+      Google Cloud further strengthens my analytical toolkit.
 
 
-      With a strong foundation in statistical analysis and data visualization, I
-      am skilled in data wrangling, data cleaning, and data modelling
-      techniques. I have expertise in Excel, Google Sheets, SQL, Tableau and
-      Python.
 
+      As a forward-thinking Data Analyst, I am eager to contribute my expertise
+      to organizations seeking data-driven excellence, ultimately
 
-      As a forward-thinking data analyst, I am eager to contribute my expertise
-      to organizations seeking data-driven excellence, ultimately fostering
-      data-informed decision-making that leads to sustainable growth and
-      success.
+      fostering data-informed decision-making that leads to sustainable growth
+      and success.
     actions:
       - type: Button
         label: Contact me   →
