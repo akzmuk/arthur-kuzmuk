@@ -54,7 +54,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
-        title: Second Card Title
+        title: Mushrooms analysis
         image:
           type: Image
           url: /images/mui-5.svg
