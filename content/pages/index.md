@@ -48,10 +48,7 @@ sections:
           This project aims to provide valuable insights and predictive models
           for organizations looking to address employee turnover. Employee churn
           can have a significant impact on productivity and overall company
-          success. By leveraging exploratory data analysis, data cleaning,
-          various data visualizations, and machine learning techniques, this
-          project helps organizations make data-driven decisions to reduce
-          employee turnover and improve retention strategies.
+          success. 
         actions:
           - type: Button
             label: REpository
