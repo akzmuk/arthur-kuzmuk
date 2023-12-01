@@ -60,10 +60,12 @@ sections:
           url: /images/271919696-b88ae8e2-b627-4645-8937-8138466e86ae.jpg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          In this project, I embarked on a comprehensive analysis of mushroom
+          data, focusing on exploratory data analysis (EDA) and building a
+          decision tree model to classify mushrooms as either edible or
+          poisonous. The project's primary objective was to gain insights into
+          the dataset's characteristics, establish patterns, and create a robust
+          classification model with a high evaluation score of 1.00.
         actions:
           - type: Button
             label: Read the Docs
