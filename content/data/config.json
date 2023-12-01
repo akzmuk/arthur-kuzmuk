@@ -32,7 +32,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "underline": "hover",
-                "url": "/"
+                "url": "/",
+                "color": "secondary"
             },
             {
                 "type": "Link",
