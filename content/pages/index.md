@@ -67,5 +67,5 @@ sections:
         actions:
           - type: Button
             label: repository
-            url: ''
+            url: /
 ---
