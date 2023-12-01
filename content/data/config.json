@@ -20,7 +20,7 @@
             {
                 "type": "Link",
                 "label": "Telegram",
-                "url": "t.me/akzmuk",
+                "url": "/t.me/akzmuk",
                 "underline": "hover"
             }
         ]
