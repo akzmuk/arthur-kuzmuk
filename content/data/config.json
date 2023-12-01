@@ -2,49 +2,31 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "qzμk",
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "label": "GitHub",
+                "url": "https://github.com/akzmuk",
+                "underline": "hover",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/arthur-kuzmuk/",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/create/overview",
+                "label": "Telegram",
+                "url": "t.me/akzmuk",
                 "underline": "hover"
             }
         ]
     },
     "footer": {
-        "copyrightText": "Powered by Netlify Create.",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "underline": "hover",
-                "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "underline": "hover",
-                "url": "/about"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "underline": "hover",
-                "url": "https://docs.netlify.com/create/overview"
-            }
-        ]
+        "copyrightText": "2023\n",
+        "navLinks": []
     }
 }
