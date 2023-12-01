@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/photo_2023-12-02_00-12-38.jpg
+      url: /images/rsz_photo_2023-12-02_00-12-38.jpg
       altText: img
   - type: CardsSection
     title: Cards Section Component
