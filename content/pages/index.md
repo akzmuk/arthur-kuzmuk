@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Contact me →
         url: 'mailto:arthur.kuzmuk1@gmail.com'
-        size: large
+        size: medium
         variant: contained
         color: inherit
       - type: Button
