@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Telegram",
+                "label": "CV",
                 "url": "/t.me/akzmuk",
                 "underline": "hover"
             }
