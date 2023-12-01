@@ -36,7 +36,7 @@ sections:
       altText: img
   - type: CardsSection
     title: My Projects
-    subtitle: Section subtitle here
+    subtitle: 'Data '
     items:
       - type: Card
         title: First Card Title
