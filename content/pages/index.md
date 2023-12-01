@@ -42,7 +42,7 @@ sections:
         title: Employee churn prediction
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/271921133-29890a6a-84ce-47b7-8d47-c43a089687f8.jpg
           altText: First item image
         text: >
           This project aims to provide valuable insights and predictive models
