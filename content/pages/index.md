@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: 'Hi, I''m Arthur Kuzmuk'
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Data Analyst & Machine Learning Enthusiast
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
