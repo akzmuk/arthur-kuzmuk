@@ -54,7 +54,7 @@ sections:
           employee turnover and improve retention strategies.
         actions:
           - type: Button
-            label: Read the Docs
+            label: REpository
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
         title: Mushrooms analysis
