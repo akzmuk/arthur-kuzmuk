@@ -15,7 +15,7 @@ sections:
         url: 'mailto:arthur.kuzmuk1@gmail.com'
         size: large
         variant: contained
-        color: secondary
+        color: primary
       - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/create/overview'
