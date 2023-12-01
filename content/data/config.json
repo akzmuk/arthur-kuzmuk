@@ -27,13 +27,6 @@
     },
     "footer": {
         "copyrightText": "2023\n",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "About",
-                "underline": "hover",
-                "url": ""
-            }
-        ]
+        "navLinks": []
     }
 }
