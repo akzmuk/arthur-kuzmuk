@@ -30,12 +30,6 @@ sections:
         size: large
         variant: contained
         color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/create/overview'
-        size: large
-        variant: outlined
-        color: primary
     image:
       type: Image
       url: /images/rsz_photo_2023-12-02_00-12-38.png
