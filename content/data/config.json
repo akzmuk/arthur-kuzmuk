@@ -9,7 +9,7 @@
                 "label": "GitHub",
                 "url": "https://github.com/akzmuk",
                 "underline": "hover",
-                "color": "inherit"
+                "color": "primary"
             },
             {
                 "type": "Link",
