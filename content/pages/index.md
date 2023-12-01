@@ -6,9 +6,22 @@ sections:
     title: 'Hi, I''m Arthur Kuzmuk'
     subtitle: Data Analyst & Machine Learning Enthusiast
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/create/features/local-development)
+      I am a student in my fourth year at Taras Shevchenko National University
+      of Kyiv studying computer mathematics. I'm passionate about transforming
+      raw data into actionable insights that empower organizations to make
+      informed decisions. I thrive in data-driven environments where I can turn
+      complex datasets into clear, actionable recommendations.
+
+
+      With a strong foundation in statistical analysis and data visualization, I
+      am skilled in data wrangling, cleaning, and modelling techniques. I have
+      expertise in **Excel, Google Sheets, SQL, Tableau and Python**.
+
+
+      As a forward-thinking data analyst, I am eager to contribute my expertise
+      to organizations seeking data-driven excellence, ultimately fostering
+      data-informed decision-making that leads to sustainable growth and
+      success.
     actions:
       - type: Button
         label: Contact me →
