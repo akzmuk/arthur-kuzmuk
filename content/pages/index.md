@@ -66,12 +66,7 @@ sections:
           In this project, I embarked on a comprehensive analysis of mushroom
           data, focusing on exploratory data analysis (EDA) and building a
           decision tree model to classify mushrooms as either edible or
-          poisonous. 
-
-
-          The project's primary objective was to gain insights into the
-          dataset's characteristics, establish patterns, and create a robust
-          classification model with a high evaluation score of 1.00.
+          poisonous.
         actions:
           - type: Button
             label: repository
