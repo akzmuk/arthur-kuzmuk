@@ -66,6 +66,6 @@ sections:
           poisonous.
         actions:
           - type: Button
-            label: repository
+            label: Repository
             url: /
 ---
