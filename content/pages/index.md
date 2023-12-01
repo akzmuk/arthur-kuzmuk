@@ -67,5 +67,5 @@ sections:
         actions:
           - type: Button
             label: repository
-            url: 'https://docs.netlify.com/create/overview'
+            url: ''
 ---
