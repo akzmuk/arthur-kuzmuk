@@ -52,7 +52,7 @@ sections:
         actions:
           - type: Button
             label: REpository
-            url: 'https://docs.netlify.com/create/overview'
+            url: 'https://github.com/akzmuk/Employee-churn-prediction'
       - type: Card
         title: Mushrooms analysis
         image:
