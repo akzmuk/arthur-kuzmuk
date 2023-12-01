@@ -1,5 +1,5 @@
 ---
-title: Home
+title: μ
 type: Page
 sections:
   - type: HeroSection
