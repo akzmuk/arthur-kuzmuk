@@ -1,5 +1,5 @@
 ---
-title: μ
+title: QZ
 type: Page
 sections:
   - type: HeroSection
