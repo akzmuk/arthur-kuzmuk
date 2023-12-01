@@ -13,7 +13,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "LinkedIn",
                 "url": "/about",
                 "underline": "hover"
             },
