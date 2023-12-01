@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: 'Hi, I''m Arthur Kuzmuk'
+    title: Arthur Kuzmuk
     subtitle: Data Analyst & Machine Learning Enthusiast
     text: >
       I am a student in my fourth year at Taras Shevchenko National University
