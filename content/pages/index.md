@@ -68,7 +68,7 @@ sections:
           classification model with a high evaluation score of 1.00.
         actions:
           - type: Button
-            label: Read the Docs
+            label: repository
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
         title: Third Card Title
