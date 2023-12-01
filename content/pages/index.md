@@ -57,6 +57,21 @@ sections:
             label: REpository
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
+        title: Third Card Title
+        image:
+          type: Image
+          url: /images/ts.svg
+          altText: Third item image
+        text: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat.
+        actions:
+          - type: Button
+            label: Read the Docs
+            url: 'https://docs.netlify.com/create/overview'
+      - type: Card
         title: Mushrooms analysis
         image:
           type: Image
@@ -72,20 +87,5 @@ sections:
         actions:
           - type: Button
             label: repository
-            url: 'https://docs.netlify.com/create/overview'
-      - type: Card
-        title: Third Card Title
-        image:
-          type: Image
-          url: /images/ts.svg
-          altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
             url: 'https://docs.netlify.com/create/overview'
 ---
