@@ -33,7 +33,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/rsz_photo_2023-12-02_00-12-38.png
+      url: /images/20240421_145859.jpg
       altText: img
   - type: CardsSection
     title: My Projects
