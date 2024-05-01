@@ -72,10 +72,10 @@ sections:
       - type: Card
         title: Precipitation prediction
         text: >
-          The objective of this project is to construct a predictive model
-          capable of estimating the likelihood of precipitation events by
-          utilizing various input factors, including temperature, relative
-          humidity levels, and average cloud cover %.
+          The objective of this project is to buid a predictive model capable of
+          estimating the likelihood of precipitation events by utilizing various
+          input factors, including temperature, relative humidity levels, and
+          average cloud cover %.
         image:
           type: Image
           url: /images/anna-atkins-rNBaaxyeWWM-unsplash.jpg
