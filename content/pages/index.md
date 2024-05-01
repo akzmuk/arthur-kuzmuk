@@ -72,9 +72,11 @@ sections:
       - type: Card
         title: Precipitation prediction
         text: >+
-          \<div style="text-align: center">Prediction rainfall probability in
-          Basel, Switzerland based on parameters such as temperature, humidity
-          and average cloud cover etc.\</div>
+          This project aims to develop a model that predicts rainfall
+          probability based on parameters such as temperature, humidity average
+          cloud cover etc.
+
+
 
         image:
           type: Image
