@@ -31,6 +31,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: LinkedIn
+        url: 'https://www.linkedin.com/in/arthur-kuzmuk'
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/20240421_145859.jpg
