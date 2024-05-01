@@ -71,10 +71,9 @@ sections:
             url: 'https://github.com/akzmuk/Mushrooms-analysis'
       - type: Card
         title: Precipitation prediction
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Prediction rainfall probability in Basel, Switzerland based on
+          parameters such as temperature, humidity, and average cloud cover etc.
         image:
           type: Image
           url: /images/anna-atkins-rNBaaxyeWWM-unsplash.jpg
