@@ -26,10 +26,16 @@ sections:
       and success.
     actions:
       - type: Button
-        label: Contact me   →
+        label: Contact me
         url: 'mailto:arthur.kuzmuk1@gmail.com'
         size: large
         variant: contained
+        color: primary
+      - type: Button
+        label: LinkedIn
+        url: 'https://www.linkedin.com/in/arthur-kuzmuk'
+        size: large
+        variant: outlined
         color: primary
     image:
       type: Image
