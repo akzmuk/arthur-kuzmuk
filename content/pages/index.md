@@ -35,7 +35,7 @@ sections:
         label: LinkedIn
         url: 'https://www.linkedin.com/in/arthur-kuzmuk'
         size: large
-        variant: outlined
+        variant: contained
         color: inherit
     image:
       type: Image
