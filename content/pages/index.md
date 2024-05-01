@@ -81,7 +81,7 @@ sections:
         actions:
           - type: Button
             label: REPOSITORY
-            url: /
+            url: 'https://github.com/akzmuk/precipitation-prediction'
             size: medium
             variant: text
             color: primary
