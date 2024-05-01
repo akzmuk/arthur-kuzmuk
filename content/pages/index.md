@@ -36,7 +36,7 @@ sections:
         url: 'https://www.linkedin.com/in/arthur-kuzmuk'
         size: large
         variant: contained
-        color: inherit
+        color: primary
     image:
       type: Image
       url: /images/20240421_145859.jpg
