@@ -69,4 +69,22 @@ sections:
           - type: Button
             label: Repository
             url: 'https://github.com/akzmuk/Mushrooms-analysis'
+      - type: Card
+        title: Precipitation prediction
+        text: >
+          The objective of this project is to build a predictive model capable
+          of estimating the likelihood of precipitation by utilizing various
+          input factors, including temperature, relative humidity levels, and
+          average cloud cover %.
+        image:
+          type: Image
+          url: /images/anna-atkins-rNBaaxyeWWM-unsplash.jpg
+          altText: Item image
+        actions:
+          - type: Button
+            label: REPOSITORY
+            url: 'https://github.com/akzmuk/precipitation-prediction'
+            size: medium
+            variant: text
+            color: primary
 ---
