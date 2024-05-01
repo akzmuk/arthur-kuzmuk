@@ -1,5 +1,5 @@
 ---
-title: qzμk
+title: A. Kuzmuk
 type: Page
 sections:
   - type: HeroSection
