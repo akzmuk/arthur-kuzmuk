@@ -72,10 +72,9 @@ sections:
       - type: Card
         title: Precipitation prediction
         text: >+
-          Prediction rainfall probability in Basel, Switzerland based on
-          parameters such as temperature, humidity, and average cloud cover etc.
-
-
+          \<div style="text-align: center">Prediction rainfall probability in
+          Basel, Switzerland based on parameters such as temperature, humidity
+          and average cloud cover etc.\</div>
 
         image:
           type: Image
