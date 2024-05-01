@@ -71,13 +71,10 @@ sections:
             url: 'https://github.com/akzmuk/Mushrooms-analysis'
       - type: Card
         title: Precipitation prediction
-        text: >+
+        text: >
           This project aims to develop a model that predicts rainfall
-          probability based on parameters such as temperature, humidity average
+          probability based on parameters such as temperature, humidity, average
           cloud cover etc.
-
-
-
         image:
           type: Image
           url: /images/anna-atkins-rNBaaxyeWWM-unsplash.jpg
