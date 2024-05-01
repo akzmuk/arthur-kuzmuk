@@ -70,7 +70,7 @@ sections:
             label: Repository
             url: 'https://github.com/akzmuk/Mushrooms-analysis'
       - type: Card
-        title: Item Title
+        title: Precipitation prediction
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
