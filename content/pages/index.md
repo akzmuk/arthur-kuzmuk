@@ -71,13 +71,11 @@ sections:
             url: 'https://github.com/akzmuk/Mushrooms-analysis'
       - type: Card
         title: Precipitation prediction
-        text: >+
+        text: >
           The objective of this project is to construct a predictive model
           capable of estimating the likelihood of precipitation events by
-          utilizing various input factors, including but not limited to
-          temperature readings, relative humidity levels, and average cloud
-          cover data.
-
+          utilizing various input factors, including temperature, relative
+          humidity levels, and average cloud cover data.
         image:
           type: Image
           url: /images/anna-atkins-rNBaaxyeWWM-unsplash.jpg
