@@ -80,7 +80,7 @@ sections:
           altText: Item image
         actions:
           - type: Button
-            label: Learn More
+            label: REPOSITORY
             url: /
             size: medium
             variant: text
