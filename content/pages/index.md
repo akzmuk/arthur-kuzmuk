@@ -34,7 +34,7 @@ sections:
       - type: Button
         label: LinkedIn
         url: 'https://www.linkedin.com/in/arthur-kuzmuk'
-        size: large
+        size: medium
         variant: outlined
         color: inherit
     image:
