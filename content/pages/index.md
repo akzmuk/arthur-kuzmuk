@@ -73,8 +73,8 @@ sections:
         title: Precipitation prediction
         text: >
           This project aims to develop a model that predicts rainfall
-          probability based on parameters such as temperature, humidity, average
-          cloud cover etc.
+          probability based on parameters such as temperature, relative
+          humidity, average cloud cover etc.
         image:
           type: Image
           url: /images/anna-atkins-rNBaaxyeWWM-unsplash.jpg
